@@ -30,3 +30,4 @@ The overall hardware schematic for Continuous Assessment 3 is shown below:
 ### Inference
 
 GPIO input reading with switch debouncing was successfully implemented to cycle through diverse LED display patterns.
+
