@@ -1,10 +1,10 @@
-# 25011102018_FIoT_LAB — Foundations of Internet of Things + Lab
+# 25011102055_FIoT_LAB — Foundations of Internet of Things + Lab
 
 **Course Code:** 25CS2741  
 **Course Title:** Fundamentals of Internet of Things + Lab  
 **Institution:** Shiv Nadar University, Chennai — Department of Computer Science & Engineering  
 **Academic Year:** II Year / 3rd Semester B. Tech CSE (IoT) Section A   
-**Student Register Number:** 25011102018  
+**Student Register Number:** 25011102055  
 
 ---
 
@@ -21,7 +21,7 @@ The laboratory syllabus spans two distinct microcontroller architectures:
 ## 2. Repository Structure
 
 ```text
-25011102018_FIoT_LAB/
+25011102055_FIoT_LAB/
 │
 ├── README.md                           # Master repository documentation & course index
 ├── .gitignore                          # Clean build tracking (tracks .hex, ignores temp build files)
